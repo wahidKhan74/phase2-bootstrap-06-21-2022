@@ -1,0 +1,21 @@
+.container-bg {
+    background-color: aqua;
+    border: 2px solid blue;
+}
+
+.bg-one {
+    background-color: rgb(228, 154, 64);
+    border: 2px solid brown;
+}
+
+.bg-two {
+    background-color: rgb(193, 145, 237);
+    border: 2px solid rgb(163, 7, 163);
+}
+
+.bg-three {
+    background-color: rgb(80, 223, 80);
+    border: 2px solid rgb(12, 62, 1);
+}
+
+
